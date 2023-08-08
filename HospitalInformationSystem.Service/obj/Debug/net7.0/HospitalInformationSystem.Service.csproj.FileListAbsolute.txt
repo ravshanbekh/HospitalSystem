@@ -1,0 +1,17 @@
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Service.deps.json
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Service.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Service.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Data.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Data.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\bin\Debug\net7.0\HospitalInformationSystem.Domain.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.csproj.AssemblyReference.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.AssemblyInfoInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.AssemblyInfo.cs
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.csproj.CopyComplete
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\refint\HospitalInformationSystem.Service.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\HospitalInformationSystem.Service.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Service\obj\Debug\net7.0\ref\HospitalInformationSystem.Service.dll

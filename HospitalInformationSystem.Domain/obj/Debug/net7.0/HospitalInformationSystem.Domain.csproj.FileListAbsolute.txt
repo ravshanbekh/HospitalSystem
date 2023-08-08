@@ -1,0 +1,12 @@
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\bin\Debug\net7.0\HospitalInformationSystem.Domain.deps.json
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\bin\Debug\net7.0\HospitalInformationSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\bin\Debug\net7.0\HospitalInformationSystem.Domain.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.AssemblyInfo.cs
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\refint\HospitalInformationSystem.Domain.dll
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\HospitalInformationSystem.Domain.pdb
+C:\Users\Muhammadqodir\OneDrive\Documents\HospitalInformationSystem\HospitalInformationSystem.Domain\obj\Debug\net7.0\ref\HospitalInformationSystem.Domain.dll
